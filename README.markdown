@@ -30,7 +30,7 @@ A basic application to show how we can join two kafka streams. We read data from
 
 ```sbt clean compile```
 
-**3)Run the application**
+**3) Run the application**
    
    ```sbt run```
    
