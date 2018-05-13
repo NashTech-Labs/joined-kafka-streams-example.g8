@@ -1,4 +1,4 @@
-A [Giter8][g8] template for joining two kafka streams.
+A [Giter8][g8] template for Sample application to show joining of two kafka streams and writing it to topic.
 
 #joined-kafka-streams-example
 
@@ -20,7 +20,7 @@ A basic application to show how we can join two kafka streams. We read data from
 
 ```bin/kafka-server-start.sh config/server.properties```
 
-#How to set up ?
+# How to set up ?
 
 **1) Clone the application**
 
@@ -30,11 +30,12 @@ A basic application to show how we can join two kafka streams. We read data from
 
 ```sbt clean compile```
 
-**)Run the application**
+**3)Run the application**
    
    ```sbt run```
    
    It will show two options to run i.e StreamData, StartApplication
+  
   **1) StreamData**
   
   **2) StartApplication**
