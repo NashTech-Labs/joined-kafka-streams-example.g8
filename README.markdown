@@ -26,11 +26,17 @@ A basic application to show how we can join two kafka streams. We read data from
 
 ```sbt new mahesh2492/joined-kafka-streams-example.g8```
 
-**2) Compile the application**
+***2) Give name to your application**
+
+  ```name joined-kafka-streams-example``` //You can give any name to it.
+
+**3) Compile the application**
+
+```cd joined-kafka-streams-example```
 
 ```sbt clean compile```
 
-**3) Run the application**
+**4) Run the application**
    
    ```sbt run```
    
