@@ -24,9 +24,9 @@ A basic application to show how we can join two kafka streams. We read data from
 
 **1) Clone the application**
 
-```sbt new mahesh2492/joined-kafka-streams-example.g8```
+```sbt new knoldus/joined-kafka-streams-example.g8```
 
-***2) Give name to your application**
+**2) Give name to your application**
 
   ```name joined-kafka-streams-example``` //You can give any name to it.
 
