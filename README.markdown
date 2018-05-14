@@ -4,7 +4,7 @@ A [Giter8][g8] template for Sample application to show joining of two kafka stre
 
 A basic application to show how we can join two kafka streams. We read data from different topics, join them and write it to final topic. It will also print joined stream data to console.
 
-**Prerequisite:** If you do not have kafka in your system. Download it from here
+**Prerequisite:** If you do not have kafka in your system. Download it from [here](https://www.apache.org/dyn/closer.cgi?path=/kafka/1.1.0/kafka_2.11-1.1.0.tgz)
 
 **1) Extract the folder**
 
